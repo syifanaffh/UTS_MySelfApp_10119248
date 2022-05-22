@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">10119248AKBMySelfApp</string>
+
+    <string name="app">Self Apps</string>
+    <string name="created">Created by syifanaffh</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="welcome1">Be Yourself</string>
+    <string name="desc_welcome1">Be yourself, don’t take anything from anyone, and never let them take you alive.-Gerard Way</string>
+
+    <string name="welcome2">Love Yourself</string>
+    <string name="desc_welcome2">Trust Yourself. You know more than you think you do.-Benjamin Spouk</string>
+
+    <string name="welcome3">Welcome</string>
+    <string name="desc_welcome3">Kamu akan masuk ke dunia Syifa Nur Afifah</string>
+
+    <string name="mulai">Mulai</string>
+    
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="gallery">Gallery</string>
+    <string name="media">Media</string>
+    <string name="profile">Profile</string>
+    <string name="daily_act">Daily Activity</string>
+
+    <string name="syifa">Syifa Nur Afifah</string>
+    <string name="desc">Descriptions</string>
+    <string name="descsyifa">Hello! Saya Syifa Nur Afifah, biasa dipanggil Syifa. Saat ini saya sedang menempuh kuliah S1 di Universitas Komputer Indonesia jurusan Teknik Informatika. Saya sangat suka Project Management, untuk menyalurkannya saya mengikuti organisasi kampus dan juga beberapa kegiatan volunteer. Saat ini saya tinggal di Cimahi.</string>
+    <string name="interest">Interest</string>
+    <string name="hobi">Hobi</string>
+    <string name="kulineran">: Kulineran</string>
+    <string name="makas">Makanan Kesukaan</string>
+    <string name="soto">: Soto Ayam</string>
+    <string name="mikes">Minuman Kesukaan</string>
+    <string name="chocodrink">: Choco Drink</string>
+    <string name="data_sciens">: Data Sciene</string>
+    <string name="cita_cita">Cita-Cita</string>
+    <string name="project_manager">: Project Manager</string>
+
+    <string name="friendlist">Friendlist</string>
+    <string name="example">Example</string>
+    <string name="example_application">Example application</string>
+    <string name="music_video">Music dan Video Favorit</string>
+    <string name="facebook">Facebook</string>
+    <string name="social_media">Social Media</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_the_title">This is the title</string>
+
+    <string name="contact">Contact</string>
+    <string name="find_me">Find Me</string>
+    <string name="about">About</string>
+    <string name="google_maps_key">AIzaSyAmXh0ENxNDinakOM_t2jvnk0bOYbIZdJc</string>
+    <string name="about_version_application">about version application</string>
+    <string name="about_title">About</string>
+    <string name="versi">Versi Syifa MySelf App 1.0.0</string>
+    <string name="okay">Okay</string>
+
+
+
+</resources>

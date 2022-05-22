@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="abumuda">#f8f8f8</color>
+    <color name="cream">#F0EACF</color>
+    <color name="hijau_vintage">#b7ded2</color>
+    <color name="pink_muda">#F3C5C5</color>
+    <color name="pink_vintage">#f6a6b2</color>
+    <color name="orange_vintage">#f7c297</color>
+    <color name="hijau_icon">#90d2d8</color>
+    <color name="icon">#AF6070</color>
+    <color name="coklat_vintage">#C1A3A3</color>
+    <color name="abu">#696969</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#FFFFF0</color>
+    <color name="dot_dark_screen2">#FFFFF0</color>
+    <color name="dot_dark_screen3">#FFFFF0</color>
+    <color name="dot_dark_screen4">#FFFFF0</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#A9A9A9</color>
+    <color name="dot_light_screen2">#A9A9A9</color>
+    <color name="dot_light_screen3">#A9A9A9</color>
+    <color name="dot_light_screen4">#A9A9A9</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+</resources>
